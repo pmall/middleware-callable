@@ -43,7 +43,7 @@
         "binder": [
             {
                 "type": "class",
-                "value": "Ellipse\\Middleware\\CallableFactoryServiceProvider"
+                "value": "Ellipse\\Middleware\\CallableResolverServiceProvider"
             }
         ]
     }
