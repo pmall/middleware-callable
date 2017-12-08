@@ -1,7 +1,7 @@
 {
     "name": "ellipse/middleware-callable",
     "type": "library",
-    "description": "Psr-15 middleware resolver producing middleware from callables",
+    "description": "Resolver producing Psr-15 middleware from callables",
     "keywords": [
         "Psr-15",
         "middleware",
